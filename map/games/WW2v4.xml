@@ -1719,6 +1719,9 @@
     <property name="Neutrals Are Blitzable" value="false" editable="false">
       <boolean/>
     </property>
+    <property name="Damage From Bombing Done To Units Instead Of Territories" value="true" editable="false">
+      <boolean/>
+    </property>
     <!-- Map Name: also used for map utils when asked -->
     <property name="mapName" value="world_war_ii_v4" editable="false"/>
     <property name="notes">

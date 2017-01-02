@@ -1706,9 +1706,6 @@
     <property name="Placement Restricted By Factory" value="true" editable="false">
       <boolean/>
     </property>
-    <property name="SBR Affects Unit Production" value="true" editable="false">
-      <boolean/>
-    </property>
     <!-- to do with neutrals, (set neutrals charge to zero if you plan on attacking neutrals) -->
     <property name="neutralCharge" value="9999999"/>
     <property name="Neutrals Are Impassable" value="true" editable="false">
